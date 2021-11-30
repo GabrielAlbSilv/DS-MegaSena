@@ -5,7 +5,7 @@ import java.util.Random;  //chamando biblioteca da função Radom
 import javax.swing.JOptionPane;
 
 public class Operacoes {
-    public static String x = " "; //tornando String x publica em toda classe Operações
+    public static String x = " "; //tornando String x publica em toda classe Operações alalalalalla
     
     public static void SorteMega(){
     
